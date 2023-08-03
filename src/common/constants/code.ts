@@ -1,0 +1,4 @@
+const EMPTY_VALUE = '';
+const ICON_DEFAULT_SIZE = 20;
+
+export { EMPTY_VALUE, ICON_DEFAULT_SIZE };
